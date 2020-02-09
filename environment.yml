@@ -2,5 +2,5 @@ name: pressdb
 channels:
   - defaults
 dependencies:
-  - python=3.8.1=h0371630_1
+  - python=3.8.1
 
